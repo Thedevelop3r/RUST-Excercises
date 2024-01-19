@@ -2,7 +2,7 @@ use std::mem::size_of;
 
 fn abdul() -> i16 {
     let mut a: i16 = 10;
-    let mut b: i16 = 20;
+    let mut b: i16 = 90;
     println!(" value {}", b);
     b = 89;
     a = -90;
